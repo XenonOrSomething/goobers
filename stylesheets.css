@@ -1,0 +1,75 @@
+/*took the stylesheet from the main website*/
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("xenonbg.png");
+    font-family: monospace;
+    color: white;
+    font-size: x-large;
+  }
+
+.intro{
+    text-align: center;
+}
+
+.projects{
+    text-align: center;
+}
+.spacer{
+    padding: 10px;
+   
+}
+.spacerbig{
+    padding: 75px;
+   
+}
+.sillylinks{
+    text-align: center;
+    display: block;
+}
+l:hover{
+    color: lightgreen;
+}
+l:visited{
+    color: #68e14b;
+}
+a{
+    color: #68e14b;
+}
+.uhoh{
+    text-align: center;
+}
+.small{
+    font-size: xx-small;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 0px solid #333333;
+    color: white;
+    background: #45933c;
+    cursor:context-menu;
+    transition: 0.3s;
+}
+.btn:hover {
+    padding: 0.6rem;
+    background: #4a9f41;
+    cursor: pointer;
+}
+.cat{
+    width: 500px;
+    height: auto;
+}
+
+.timer{
+    color: #68e14b;
+    text-align: center;
+    
+    padding-bottom: 0px;
+    font-size: 100px;
+}
+.label{
+    color: #fff;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 0px;
+}
